@@ -2,7 +2,7 @@ import re
 
 
 def positive_sum(s: str) -> int:
-    ints = [int(i) for i in re.findall("-?\d{1,}", s) if int(i) >= 1]
+    ints = [int(i) for i in re.findall(r"-?\d{1,}", s) if int(i) >= 1]
 
     return sum(ints)
 
