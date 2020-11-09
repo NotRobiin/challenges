@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/wwicked/challenges/badge/main)](https://www.codefactor.io/repository/github/wwicked/challenges/overview/main)
+
 # Coding challenges
 
 Simple history of excercises.
